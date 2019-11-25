@@ -31,7 +31,7 @@ the spreadsheet and include that, so that we can calculate the power, and not ju
 ### synthetic_emissivity
 This module provides a function which loads data from a file, 
 and then outputs a function which interpolates the emission as required by ToFu. 
-At the moment we only have one synethic emission file - future data will probably be loaded via IMAS.
+At the moment we only have one [synthetic emission file](https://bscw.rzg.mpg.de/bscw/bscw.cgi/d557520/55.D1-FPA384_03_TN--Radiation-Data_IPP_10167508.pdf) - future data will probably be loaded via IMAS.
 
 ### plot_cameras_script
 This plots all of the cameras onto one poloidal cross section of the ITER vessel. All cameras are placed onto that cross section, 
